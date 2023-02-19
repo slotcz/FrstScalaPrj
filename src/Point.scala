@@ -1,4 +1,5 @@
-import java.io._
+import java.io.*
+
 // it is class point, init and move
 class Point(xc: Int, yc: Int) {
   private var x: Int = xc

@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d976c21-769a-4668-8191-4a633bf75e7d" name="Changes" comment="second commit">
+    <list default="true" id="5d976c21-769a-4668-8191-4a633bf75e7d" name="Changes" comment="add new classes and france date show">
+      <change afterPath="$PROJECT_DIR$/src/Point_3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmplImplCls/Squaring.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmplImplCls/SquaringDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exmplclss/Person.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FrstScalaPrj/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FrstScalaPrj/Main$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FrstScalaPrj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FrstScalaPrj/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/FrstScalaPrj/Main.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FrstScalaPrj/Main.tasty" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.scala" afterDir="false" />
@@ -18,6 +23,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -48,6 +60,34 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.SquaringDemo">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FrstScalaPrj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquaringDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exmplImplCls.SquaringDemo" />
+      <module name="FrstScalaPrj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exmplImplCls.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SquaringDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ScalaProjectSettings">
     <option name="intInjectionMapping">
       <map>
@@ -74,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676659242104</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit after changed, add comments">
+      <created>1676733996961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676733996961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +137,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="commit after changed, add comments" />
+    <MESSAGE value="add new classes and france date show" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new classes and france date show" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
